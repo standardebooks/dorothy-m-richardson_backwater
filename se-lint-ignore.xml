@@ -2,7 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-3.xhtml">
 		<ignore>
-			<code>t-042</code>
+			<code>y-026</code>
 			<reason>Verse set intentionally by author as prose with initial capitals.</reason>
 		</ignore>
 	</file>
